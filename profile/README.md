@@ -12,7 +12,7 @@ Optimized for simplicity, performance, and open-source transparency.
 ### Repositories
 
 - **[rustcost-helmchart](https://github.com/rustcost/rustcost-helmchart)** — Helm chart for deploying RustCost on Kubernetes  
-- **[rustcost-backend](https://github.com/rustcost/rustcost-backend)** — Rust + Axum backend for metrics collection and FinOps logic  
+- **[rustcost-core](https://github.com/rustcost/rustcost-core)** — Rust + Axum backend for metrics collection and FinOps logic  
 - **[rustcost-frontend](https://github.com/rustcost/rustcost-frontend)** — React + Tailwind UI for cost visibility and dashboards  
 
 ---
