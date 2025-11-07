@@ -11,15 +11,15 @@ Optimized for simplicity, performance, and open-source transparency.
 
 ### Repositories
 
-- **[rustcost-helmchart](https://github.com/rustcost/rustcost-helmchart)** — Helm chart for deploying RustCost on Kubernetes  
-- **[rustcost-core](https://github.com/rustcost/rustcost-core)** — Rust + Axum backend for metrics collection and FinOps logic  
-- **[rustcost-dashboard](https://github.com/rustcost/rustcost-frontend)** — React + Tailwind UI for cost visibility and dashboards  
+- **[rustcost-helmchart](https://github.com/rustcost/rustcost-helmchart)** — Helm chart for deploying RustCost on Kubernetes
+- **[rustcost-core](https://github.com/rustcost/rustcost-core)** — Rust + Axum backend for metrics collection and FinOps logic
+- **[rustcost-dashboard](https://github.com/rustcost/rustcost-dashboard)** — React + Tailwind UI for cost visibility and dashboards
 
 ---
 
 ### Mission
 
-We aim to build an **open, efficient, and developer-friendly FinOps toolkit** for modern Kubernetes environments.  
+We aim to build an **open, efficient, and developer-friendly FinOps toolkit** for modern Kubernetes environments.
 
 ---
 
